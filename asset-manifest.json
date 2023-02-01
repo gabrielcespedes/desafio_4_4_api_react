@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6839897.css",
-    "main.js": "/static/js/main.b967f43e.js",
-    "static/js/787.ecbf0c2c.chunk.js": "/static/js/787.ecbf0c2c.chunk.js",
-    "static/media/imagen_al.jpg": "/static/media/imagen_al.edbccf9c7e2e92890378.jpg",
-    "index.html": "/index.html",
-    "main.d6839897.css.map": "/static/css/main.d6839897.css.map",
-    "main.b967f43e.js.map": "/static/js/main.b967f43e.js.map",
-    "787.ecbf0c2c.chunk.js.map": "/static/js/787.ecbf0c2c.chunk.js.map"
+    "main.css": "/desafio_4_4_api_react/static/css/main.c36c994f.css",
+    "main.js": "/desafio_4_4_api_react/static/js/main.118b6e2b.js",
+    "static/js/787.ecbf0c2c.chunk.js": "/desafio_4_4_api_react/static/js/787.ecbf0c2c.chunk.js",
+    "static/media/imagen_al.jpg": "/desafio_4_4_api_react/static/media/imagen_al.edbccf9c7e2e92890378.jpg",
+    "index.html": "/desafio_4_4_api_react/index.html",
+    "main.c36c994f.css.map": "/desafio_4_4_api_react/static/css/main.c36c994f.css.map",
+    "main.118b6e2b.js.map": "/desafio_4_4_api_react/static/js/main.118b6e2b.js.map",
+    "787.ecbf0c2c.chunk.js.map": "/desafio_4_4_api_react/static/js/787.ecbf0c2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6839897.css",
-    "static/js/main.b967f43e.js"
+    "static/css/main.c36c994f.css",
+    "static/js/main.118b6e2b.js"
   ]
 }
