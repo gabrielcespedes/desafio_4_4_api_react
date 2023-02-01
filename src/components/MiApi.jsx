@@ -22,7 +22,7 @@ const MiApi = () => {
     
     return(<div>
             <h1>hola</h1>
-            <h1>Movimientos de {info.forms[0].name}</h1>   
+            <h1>Movimientos de {info.forms[0].name}</h1>       
             <input placeholder="Busca un movimiento" onChange={handleInputFilter}></input>
             <ul>
                 {
@@ -34,8 +34,16 @@ const MiApi = () => {
                         } else {
                             return '';
                         }
+                    }).sort(function(a,b) {
+                        if (a.move.name > b.move.name) {
+                            return 1;
+                        }
+                        if (a.move.name < b.move.name) {
+                            return -1;
+                        }
+                        return 0;
                     }).map((element, index) => {return(<li key={index}>{element.move.name}</li>)})}
-            </ul>                        
+            </ul>                            
         </div>
     )
 }
